@@ -3,5 +3,5 @@ A program to help history students study by taking in important events and sorti
 
 #### Flowchart for start of program
 
-![image of UML](https://github.com/lucinda27/IA-project-2022/blob/main/images/IAflowchart.drawio.png)
+![image of UML](https://github.com/lucinda27/IA-project-2022/blob/main/images/IAflowchart%231.drawio.png)
 
